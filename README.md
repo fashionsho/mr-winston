@@ -8,3 +8,5 @@ https://mrwinston.co.nz/puffer-jacket-black/
 https://mrwinston.co.nz/jacket/
 # mr winston fleece
 https://mrwinston.co.nz/polar-fleece-jacket-grey/
+# mr winston zip up fleece
+https://mrwinston.co.nz/polar-fleece-jacket-grey/
