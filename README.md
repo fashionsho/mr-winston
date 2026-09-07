@@ -12,3 +12,5 @@ https://mrwinston.co.nz/polar-fleece-jacket-grey/
 https://mrwinston.co.nz/polar-fleece-jacket-grey/
 # mr winston jumper
 https://mrwinston.co.nz/jacket/
+# mr winston hoodie
+https://mrwinston.co.nz/hoodie/
