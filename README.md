@@ -20,3 +20,5 @@ https://mrwinston.co.nz/polar-fleece-jacket-grey/
 https://mrwinston.co.nz/polar-fleece-jacket-grey/
 # Tumblr
 https://www.tumblr.com/spookyfalconlore/827896251586592768/mr-winston-black-puffer-for-modern-winter?source=share
+# Medium
+https://medium.com/@links_99754
